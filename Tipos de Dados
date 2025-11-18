@@ -1,0 +1,10 @@
+Boolean: Verdadeiro ou falso;
+Byte: Representa valores inteiros de 8 bits que vão de -128 até 127
+Short: representa valores de 16 bits, indo de -32.768 até 32.767
+Int: números inteiros de 32 bits até -2.147.483.648 até 2.147.483.647
+Long: representa valores inteiros de 64 bits (-9.223.372.036.854.768 até o mesmo nuemro positivo)
+Float: Representa valores de todos os tipos, indo de 1.41284128412848
+Double: representa valores de ponto flutuante, que vão de 4.123912931293129 até 12491249129412
+
+
+E além disso também temos as strings que são tipos de dados que nos permitem inserir texto em nossos programas. É importante ressaltar que String é uma classe, ou seja, não pode ser entendido como um tipo primitivo, mas sim como uma referência.
