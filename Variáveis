@@ -1,0 +1,21 @@
+Quando falamos sobre variáveis, pensamos em algo que está constantemente mudando, e essa percepção na área da programação é correta, as variáveis estão sempre sujeitas a mudanças.
+
+As variáveis podem representar letras, números, vírgulas, pontos e etc. 
+Mas em si inicialmente não há nenhum valor inicialmente, somos nós quem decidimos o próprio valor da variável. Por exemplo, se quisermos que a letra ''A'', tenha o valor de 5, teremos uma variável ''A'' com o valor 5. 
+
+REGRAS
+1. Ao nomear variáveis, não podemos começar com símbolos ou números, devemos começar com uma letra
+2. Case Sensitive é o significado de que as maiúsculas e minúsculas impactam na identificação das variáveis. Ex.: uma variável "a" pode ter valor de 5 e "A" valor de 8.
+3. For e While não são usadas como variáveis
+
+
+
+public com.mycompany.teste003;
+public class Teste003 {
+  public static void main(String[] args) (
+    float a,b,c;
+    a = 7
+    b = 9;
+    c = 10;
+  }
+}
