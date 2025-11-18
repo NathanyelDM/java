@@ -1,0 +1,7 @@
+package com.mycompany.teste003;
+public class Teste003 {
+    public static void main(String[] args) {
+        float aa,b,c,Aa,aA;
+        aa = 5;
+        Aa = 7;
+        aA = 9;
